@@ -26,6 +26,7 @@ class Footer extends Component {
                     <a href="#" className="fa fa-linkedin mr-2"></a>
                     <a href="#" className="fa fa-youtube mr-2"></a>
                     <a href="#" className="fa fa-instagram mr-2"></a>
+                    <a href="#" className="fa fa-pinterest mr-2"></a>
                 </div>
                 <div className="p-3 ml-2">
                     
